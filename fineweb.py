@@ -7,7 +7,7 @@ from tqdm import tqdm
 from huggingface_hub import login
 
 # Replace 'your_huggingface_token' with your actual token
-login("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")
+login("Hoggingface_token_for_authentication")
 
 # ------------------------------------------
 local_dir = "edu_fineweb10B"
